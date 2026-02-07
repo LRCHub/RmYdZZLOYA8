@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "451",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-07T15:45:47.618963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "451",
+      "artist": "Brand New",
+      "has_synced": false,
+      "path": "select/01_451_Brand_New.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fahrenheit 451",
+      "artist": "Utopia",
+      "has_synced": false,
+      "path": "select/02_Fahrenheit_451_Utopia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fahrenheit 451",
+      "artist": "Iván Ferreiro",
+      "has_synced": false,
+      "path": "select/03_Fahrenheit_451_Iván_Ferreiro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "451",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/04_451_Yorushika.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "fahrenheit 451",
+      "artist": "Alpha Wann",
+      "has_synced": true,
+      "path": "select/05_fahrenheit_451_Alpha_Wann.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "451",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_451_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "451",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/07_451_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GO HEAD (feat. 451)",
+      "artist": "Eli Sostre",
+      "has_synced": false,
+      "path": "select/08_GO_HEAD_(feat._451)_Eli_Sostre.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pressure (feat. 451)",
+      "artist": "Eli Sostre",
+      "has_synced": false,
+      "path": "select/09_Pressure_(feat._451)_Eli_Sostre.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gehenna 451.",
+      "artist": "Alchemy feat. Duncan Bentley",
+      "has_synced": false,
+      "path": "select/10_Gehenna_451._Alchemy_feat._Duncan_Bentley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gehenna 451. (feat. Duncan Bentley)",
+      "artist": "Alchemy & Duncan Bentley",
+      "has_synced": false,
+      "path": "select/11_Gehenna_451._(feat._Duncan_Bentley)_Alchemy_&_Duncan_Bentley.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "451",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/12_451_Yorushika.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "451",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/13_451_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fahrenheit 451",
+      "artist": "Ismael Serrano",
+      "has_synced": true,
+      "path": "select/14_Fahrenheit_451_Ismael_Serrano.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fahrenheit 451 - Confesiones-directo",
+      "artist": "Iván Ferreiro",
+      "has_synced": true,
+      "path": "select/15_Fahrenheit_451_-_Confesiones-directo_Iván_Ferreiro.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fahrenheit 451",
+      "artist": "Ivan Ferreiro",
+      "has_synced": false,
+      "path": "select/16_Fahrenheit_451_Ivan_Ferreiro.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Surefire (Never Enough) Farenheit 451 Remix (radio edit)",
+      "artist": "Econoline Crush",
+      "has_synced": false,
+      "path": "select/17_Surefire_(Never_Enough)_Farenheit_451_Remix_(radio_edit)_Econoline_Crush.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "451",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_451_ヨルシカ.txt"
+    }
+  ]
+}
